@@ -1,7 +1,7 @@
 # CAR-PARKING-SYSTEM-USING-VERILOG
 
 
-Tool Used : Vivado 2019.1, Spartan-7
+
 
 ### ABSTRACT
 
